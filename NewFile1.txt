@@ -1,2 +1,6 @@
 This file was edited in GitHub
+HEAD
 Adding this change on the main branch
+
+Adding this change on the conflict branch
+ConflictBranch
